@@ -1,10 +1,6 @@
-# ZAINAB.org dosya ve sürüm dizini — 24.11.2026 (güncellendi)
+# ZAINAB.org dosya ve sürüm dizini — 24.11.2026
 
-- `index.html`: `site` dalındaki canlı site kaynağı. Bu tarihten sonra Purple Hope paleti/tipografisi, yeni rehber makaleleri (genç, çocuklu aile, uzakta), tam TR/EN/NO çevirisi, erişilebilirlik düzeltmeleri ve profesyonel site eklentileri (favicon seti, OG/Twitter meta, JSON-LD) ile kapsamlı biçimde güncellendi.
-- `CLAUDE.md`, `.ux-profile.md`: proje genelinde tasarım/erişilebilirlik kuralları (Purple Hope, WCAG 2.1 AA, Warm & Humancentric ses tonu).
-- `docs/DESIGN.md`: canlıya alınmış renk paleti, tipografi ve yerleşim kararlarının tam dökümü.
-- `assets/icons/*.svg`: Purple Hope paketinden alınan 9 özgün ikon.
-- `favicon.ico`, `assets/icon-180/192/512.png`, `site.webmanifest`, `robots.txt`, `sitemap.xml`, `404.html`: standart site altyapısı dosyaları.
+- `index.html`: `site` dalındaki mevcut site kaynağı. Bu aktarım kapsamında **değiştirilmedi**.
 - `archive/onepage/2026-11-24/index.html`: geçmişte teslim edilen tek sayfalık Türkçe ZAINAB sitesi (görseller, CSS, JS dahil çalışma sürümü).
 - `archive/onepage/2026-11-24/assets/`: arşiv sayfasının özgün görsel bağımlılıkları.
 - `archive/multipage/`: eski çok sayfalı teslim (HTML, CSS, JS, arşiv logo görselleri, teslim ve QA raporu).
