@@ -1,0 +1,1 @@
+const m=document.querySelector('#menu'), n=document.querySelector('nav');m.onclick=()=>{const v=n.classList.toggle('open');m.setAttribute('aria-expanded',String(v))};document.querySelector('#search').addEventListener('input',e=>{for(const c of document.querySelectorAll('.card'))c.hidden=!c.textContent.toLowerCase().includes(e.target.value.toLowerCase())});
