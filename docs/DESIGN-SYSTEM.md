@@ -1,0 +1,3 @@
+# Purple Hope
+Primary #452568; secondary #7851A9; lavender #AA8BC8; surface #E2D6EF; mist #F5F0FA; white #FCFAFD; gold #C6A16E; text #28212D; footer #2D1946.
+Playfair Display / Manrope. Swiss grid 12/8/4, 8px baseline, 24px gap, 1280px max. Preserve approved logo; temporary wordmark is not approval. WCAG 2.2 AA target; verify contrast and keyboard access. Grid overlay and exact alignment tests pending.
