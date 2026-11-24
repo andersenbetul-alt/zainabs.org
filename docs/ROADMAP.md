@@ -26,4 +26,15 @@
 - [ ] Gerçek yardım/başvuru süreçlerinin tasarlanması.
 - [ ] Alan adı/DNS/hosting, yayın öncesi ayrı kullanıcı onayı.
 
+## Dijital mimari — aşamalı yol haritası (Purple Hope paketinden)
+- **P0 (mevcut):** Web sitesi, arama/filtre, bilgi rehberi, kaynak dizini, çok dilli (TR/EN/NO) i18n.
+- **P1:** İçerik yönetim sistemi, anma hikayeleri bölümü, bülten, etkinlik duyuruları.
+- **P2:** AI destekli yönlendirme, denetimli topluluk alanı, gönüllülük eşleştirme, bağış altyapısı.
+- **P3:** Mağaza/ürün satışı, kullanıcı hesabı, mobil uygulama.
+
+**Not:** P1–P3 hiçbiri aktif değildir ve şu an için bir taahhüt değildir; yalnızca olası büyüme yönünü gösterir.
+
+## Yayın öncesi kabul kriterleri (Purple Hope paketinden)
+Logo ve görsel kullanım izinleri · çeviri doğruluğu (üç dilde tutarlılık) · responsive/mobil testi · klavye erişilebilirliği · renk kontrastı · performans · bozuk link kontrolü · güvenlik ve içerik testleri · yayın öncesi proje sahibi onayı.
+
 **Koruma ilkesi:** Önceki sürümler `archive/` altında saklanır.
