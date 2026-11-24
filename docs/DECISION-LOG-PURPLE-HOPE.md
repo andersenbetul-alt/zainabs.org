@@ -1,0 +1,2 @@
+# Decisions
+2026-11-24: Purple Hope palette selected by user. Reference organizations excluded from concept. Independent brand; Zeynep Öner memorial. Preserve approved logo and history. Stage prototype on design/purple-hope, not production. Photos, translations, technical testing and service approvals pending.
