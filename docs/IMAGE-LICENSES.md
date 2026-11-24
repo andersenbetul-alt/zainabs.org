@@ -1,2 +1,0 @@
-# Image register
-No external photographs have been uploaded or licensed. Prior chat image previews are references only. Required categories: hero, care, family, kids, everyday, knowledge, work, life, community, memorial. Record creator, source, license, permission, alt text, sizes and review status for each. Original SVG illustrations in the prototype are placeholders, not patient photographs.
